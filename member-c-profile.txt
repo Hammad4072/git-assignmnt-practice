@@ -1,0 +1,8 @@
+Name: [Hammad] 
+Role: Dependent Developer 
+Responsibilities: - Build upon other team members' work - Handle branch dependencies - Integrate multiple features 
+Favorite Git Commands: - git pull origin - git merge - git rebase 
+Today's Date: [06/07/25] 
+Branch: feature/hammad-docs 
+Dependencies: 
+This branch depends on Member B's feature branch for additional content.
